@@ -3,18 +3,18 @@
 Repository ini berisi kumpulan tugas Python untuk materi dasar hingga pengolahan data sederhana.
 
 ## File
-- `tugas-03.py`
-- `tugas-04.py`
-- `tugas-05.py`
-- `tugas-06.py`
-- `ringkasan_tugas-06.txt`
+- `tugas3.py`
+- `tugas4.py`
+- `tugas5.py`
+- `tugas6.py`
+- `ringkasan_tugas6.txt`
 - `requirements.txt`
 
 ## Tugas 3
 
 ### Deskripsi
 
-File `tugas-03.py` mencakup:
+File `tugas3.py` mencakup:
 
 - Deklarasi variabel dengan beberapa tipe data
 - Manipulasi string
@@ -26,7 +26,7 @@ File `tugas-03.py` mencakup:
 ## Tugas 4
 
 ### Deskripsi
-File `tugas-04.py` mencakup:
+File `tugas4.py` mencakup:
 - List: akses, slicing, append, insert, extend, pop, remove
 - Tuple: len, indeks, unpacking
 - Set: union, intersection, difference, symmetric difference
@@ -39,7 +39,7 @@ File `tugas-04.py` mencakup:
 ## Tugas 5
 
 ### Deskripsi Tugas 5
-File `tugas-05.py` berisi:
+File `tugas5.py` berisi:
 - Function `greet()`
 - Function `tambah()`
 - Function `rata_rata()`
@@ -49,7 +49,7 @@ File `tugas-05.py` berisi:
 ## Tugas 6
 
 ### Deskripsi
-File `tugas-06.py` berisi:
+File `tugas6.py` berisi:
 - Import `numpy`, `pandas`, dan `os`
 - Pengolahan data nilai dengan NumPy
 - Pembuatan DataFrame dengan pandas
